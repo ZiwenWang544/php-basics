@@ -38,7 +38,13 @@ echo "<br>";
 
 echo strtoupper($str);
 echo "<br>";
-  
+
+strtoupper($str);
+echo "<br>";
+
+echo substr("Hello world",6);
+echo "<br>";
+
 
 
 ?>
